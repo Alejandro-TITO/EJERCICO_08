@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICO_08", "EJERCICO_08.csproj", "{E802A065-B55F-4CBC-96D1-9C887533DDC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E802A065-B55F-4CBC-96D1-9C887533DDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E802A065-B55F-4CBC-96D1-9C887533DDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E802A065-B55F-4CBC-96D1-9C887533DDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E802A065-B55F-4CBC-96D1-9C887533DDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3BA3FA2-22BA-4DF7-B29D-066E9121A205}
+	EndGlobalSection
+EndGlobal
