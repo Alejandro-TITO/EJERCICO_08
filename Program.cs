@@ -13,6 +13,12 @@ namespace EJERCICO_08
             int nota;
             Console.WriteLine("Ingrese la nota");
             nota = Convert.ToInt32(Console.ReadLine());
+            while (nota < 0 || nota > 20)
+            {
+                Console.WriteLine("El valor es incorrecto");
+                Console.WriteLine("ingresa una nota entre 0 y 20: ");
+                nota = Convert.ToInt32(Console.ReadLine());
+            }
             if (nota >= 16)
             {
                 Console.WriteLine("Exelente");
